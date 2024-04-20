@@ -1,1 +1,1 @@
-# nextjs-ott
+# NextJS Based OTT web application
